@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Projact</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="DadId">dad</string>
+    <string name="Cancal">Cancal</string>
+    <string name="GPSAlertDialogTitle">GPS is not on</string>
+    <string name="GPSAlertDialogMessage">Place Torn GPS</string>
+
+    //string for chat...
+    <string name="chatusername"></string>
+   //String for contact list
+    <string name="contactlist">CONTACTLIST</string>
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_maps">Map</string>
+        <string name="title_activity_singel__user">Singel_User</string>
+        <string name="title_activity_chat__contact__list">Chat_Contact_List</string>
+        <string name="title_activity_schedule_">Schedule_Activity</string>
+</resources>
